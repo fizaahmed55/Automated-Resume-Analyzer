@@ -1,0 +1,27 @@
+# AI Resume Analyzer and Job Matcher
+
+This is a Java-based project developed in Eclipse. The system analyzes a resume and matches it with suitable job requirements.
+
+## Features
+
+- Resume analysis
+- Job matching
+- Java-based implementation
+- User-friendly project structure
+
+## Technologies Used
+
+- Java
+- Eclipse IDE
+- GitHub
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in Eclipse.
+3. Import it as an existing Java project.
+4. Run the main Java file from the `src` folder.
+
+## Project Status
+
+Completed for academic/project portfolio purposes.
